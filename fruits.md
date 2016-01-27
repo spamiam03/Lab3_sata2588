@@ -1,10 +1,11 @@
 Some Cool Fruits
 
 Pineapple
+Lemon
 Cherry
-Mango
 Passion Fruit
 Banana
-Kiwi
 Strawberry
-
+Blueberries
+Starfruit
+Raspberries
